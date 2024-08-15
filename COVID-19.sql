@@ -280,7 +280,7 @@ SELECT
 	((Rolling_vaccinations * 1.0)/Population)*100 AS People_vaccinated_percentage
 FROM
 	Pop_vs_vac
-)
+ )
 
 Select TOP 10
 	Continent,

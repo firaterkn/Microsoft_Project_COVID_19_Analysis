@@ -17,7 +17,7 @@ The questions to be answered in the project are below:
 <br>
 
 # Tools Used
-**1. Microsoft SQL Server:** The backbone of the data analysis, enabling efficient data transformation, cleansing, and extraction of critical insights from large datasets.
+**1. Microsoft SQL Server:** Used for the data analysis, enabling efficient data transformation, cleansing, and extraction of critical insights from large datasets.
 
 **2. Power BI:** The visualization tool used to create dynamic and interactive dashboards, presenting the analyzed data in a clear and impactful manner.
 
